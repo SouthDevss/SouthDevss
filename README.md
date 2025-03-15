@@ -1,5 +1,5 @@
-We're SouthDevs 
-a passionate three-person team dedicated to crafting exceptional RedM experiences. 🤠
+SouthDevs
+We're SouthDevs – a passionate three-person team (including two brothers) dedicated to crafting exceptional RedM experiences. 🤠
 Our Philosophy:
 
 🚀 Innovation First: We create unique, groundbreaking content that pushes boundaries
@@ -9,4 +9,3 @@ Our Philosophy:
 
 Every resource we create combines stunning visuals with lightweight performance, ensuring everyone can enjoy an incredible Wild West experience regardless of their hardware. 🌵
 Join our community to chat with us directly, share your ideas, or tell us what you'd like to see next! We love hearing from our members. 💬
-Join our Discord 🎮
